@@ -15,7 +15,13 @@
                 * Length values like font-size, width, and height will grow or shrink.
             * transition-duration: 2s;
                 * Duration is specified in seconds or milliseconds, such as 3s, 0.75s, 500ms.
+            * transition-timing-function
+                * ease-in — starts slow, accelerates quickly, stops abruptly
+                * ease-out — begins abruptly, slows down, and ends slowly
+                * ease-in-out — starts slow, gets fast in the middle, and ends slowly
+                * linear — constant speed throughout
                 
+
         
 
 
