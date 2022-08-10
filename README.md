@@ -1,6 +1,6 @@
 # Web Developer Study
 ## 12 months web developer study. I decided to dedicate at least 12 months to learn web development.
-## Challenge HTML, CSS and  JavaScript by frontendMentor 
+## Course CSS Transition by CodeCademy
 
 ![Begin Banner](/Documentation/top-1200x350.gif)
 
@@ -10,12 +10,12 @@
 ## What I learned/used (Link for details)
 
 * Projects [link](https://github.com/pittyh6/grid-css_3-12Mths-WebDevStudy-2022-2023)
-* CSS [link](https://github.com/pittyh6/grid-css_3-12Mths-WebDevStudy-2022-2023/blob/master/learnedCSS.md)
-* HTML [link](https://github.com/pittyh6/grid-css_3-12Mths-WebDevStudy-2022-2023/blob/master/learnedHTML.md)
+* CSS [link](https://github.com/pittyh6/CSS_transitions-3-12Mths-WebDevStudy-2022-2023/blob/master/learnedCSS.md)
+* HTML [link](https://github.com/pittyh6/CSS_transitions-3-12Mths-WebDevStudy-2022-2023/blob/master/learnedHTML.md)
 <!-- 
-* Resources [link](https://github.com/pittyh6/grid-css_3-12Mths-WebDevStudy-2022-2023/blob/master/learnedResources.md)
-* JavaScript [link](https://github.com/pittyh6/grid-css_3-12Mths-WebDevStudy-2022-2023/blob/master/learnedJAVASCRIPT.md)
-* SASS [link](https://github.com/pittyh6/grid-css_3-12Mths-WebDevStudy-2022-2023/blob/master/learnedSASS.md)
+* Resources [link](https://github.com/pittyh6/CSS_transitions-3-12Mths-WebDevStudy-2022-2023/blob/master/learnedResources.md)
+* JavaScript [link](https://github.com/pittyh6/CSS_transitions-3-12Mths-WebDevStudy-2022-2023/blob/master/learnedJAVASCRIPT.md)
+* SASS [link](https://github.com/pittyh6/CSS_transitions-3-12Mths-WebDevStudy-2022-2023/blob/master/learnedSASS.md)
 -->
 
 <!-- ## Project + Result
@@ -33,6 +33,7 @@
 * (2 mth) 12Mths Web Development Study [link](https://github.com/pittyh6/USP_Introduction-to-Software-Testing_12Mths-WebDevStudy-2022-2023) (USP - software Testing)
 * (2 mth) 12Mths Web Development Study [link](https://github.com/pittyh6/cypressIo_Testing-yr-first-application-12Mths-WebDevStudy-2022-2023) (Cypress - Cypress.io)
 * (3 mth) 12Mths Web Development Study [link](https://github.com/pittyh6/Easybank-Challenge_3-12Mths-WebDevStudy-2022-2023) (Easybank Challenge - frontend)
+* (3 mth) 12Mths Web Development Study [link](https://github.com/pittyh6/grid-css_3-12Mths-WebDevStudy-2022-2023) (CSS Grid - The net ninja)
 
 
 ## Management Tools
