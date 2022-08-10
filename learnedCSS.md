@@ -8,7 +8,9 @@
 ## What I learned/used 
 ### CSS 
 * Cascading Style Sheets (CSS) 
-    
+    * transition
+        * transition-property: background-color;
+        * transition-duration: 2s;
 
 
 
