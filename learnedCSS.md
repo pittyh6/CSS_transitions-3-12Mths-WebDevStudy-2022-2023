@@ -30,7 +30,9 @@
                         * To combine transitions, add a comma (,) before the semicolon (;) in your rule. After the comma, use the same shorthand syntax. For example:
                             * transition: color 1s linear, font-size 750ms ease-in 100ms;
                             * transition: width 750ms ease-in 200ms, left 500ms ease-out 450ms, font-size 950ms linear;
-
+            *   * all
+                    * all means every value that changes will be transitioned in the same way. You can use all with the separate transition properties, or the shorthand syntax. This allows you to describe the transition of many properties with a single line:
+                        * transition: all 1.5s linear 0.5s;
         
 
 
