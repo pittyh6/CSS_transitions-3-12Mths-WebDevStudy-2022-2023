@@ -9,8 +9,14 @@
 ### CSS 
 * Cascading Style Sheets (CSS) 
     * transition
-        * transition-property: background-color;
-        * transition-duration: 2s;
+        * The property that we want to transition & The duration of the transition.
+            * transition-property: background-color/color;
+                * Color values, like color and background-color, will blend to a new color.
+                * Length values like font-size, width, and height will grow or shrink.
+            * transition-duration: 2s;
+                * Duration is specified in seconds or milliseconds, such as 3s, 0.75s, 500ms.
+                
+        
 
 
 
