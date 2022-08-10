@@ -33,6 +33,11 @@
             *   * all
                     * all means every value that changes will be transitioned in the same way. You can use all with the separate transition properties, or the shorthand syntax. This allows you to describe the transition of many properties with a single line:
                         * transition: all 1.5s linear 0.5s;
+        * CSS Transitions have 4 components:
+            * A property that will transition.
+            * The duration which describes how long the transition takes.
+            * The delay to pause before the transition will take place.
+            * The timing function that describes the transition’s acceleration.
         
 
 
