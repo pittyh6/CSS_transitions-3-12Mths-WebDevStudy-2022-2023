@@ -22,7 +22,9 @@
                 * linear — constant speed throughout
             * transition-delay.
                 * transition-delay: 250ms;
-
+            * Shorthand
+                * Because these four properties (transition-property, transition-duration,transition-timing-function,  transition-delay ) are so frequently declared together, CSS provides a property that can be used to declare them all in one line: transition. This shorthand property describes each aspect of the transition puzzle in a single declaration. The properties must be specified in this order: transition-property, transition-duration, transition-timing-function, transition-delay.
+                    * transition: color 1.5s linear 0.5s;
         
 
 
