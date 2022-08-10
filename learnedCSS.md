@@ -20,7 +20,8 @@
                 * ease-out — begins abruptly, slows down, and ends slowly
                 * ease-in-out — starts slow, gets fast in the middle, and ends slowly
                 * linear — constant speed throughout
-                
+            * transition-delay.
+                * transition-delay: 250ms;
 
         
 
