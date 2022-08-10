@@ -25,6 +25,12 @@
             * Shorthand
                 * Because these four properties (transition-property, transition-duration,transition-timing-function,  transition-delay ) are so frequently declared together, CSS provides a property that can be used to declare them all in one line: transition. This shorthand property describes each aspect of the transition puzzle in a single declaration. The properties must be specified in this order: transition-property, transition-duration, transition-timing-function, transition-delay.
                     * transition: color 1.5s linear 0.5s;
+            *   * Combinations
+                    * The shorthand transition rule has one advantage over the set of separate transition-<property> rules: you can describe unique transitions for multiple properties, and combine them.
+                        * To combine transitions, add a comma (,) before the semicolon (;) in your rule. After the comma, use the same shorthand syntax. For example:
+                            * transition: color 1s linear, font-size 750ms ease-in 100ms;
+                            * transition: width 750ms ease-in 200ms, left 500ms ease-out 450ms, font-size 950ms linear;
+
         
 
 
